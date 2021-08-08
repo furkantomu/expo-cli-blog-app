@@ -9,7 +9,7 @@
 
 > Login screen.
 
-![](https://raw.githubusercontent.com/furkantomu/expo-cli-blog-app/master/screenshots/SignUp.png?token=ASJIVYQFXDQJWKSBWPQOTPDBCBH7A)
+![](https://raw.githubusercontent.com/furkantomu/expo-cli-blog-app/master/screenshots/Login.png?token=ASJIVYRPRDWZF34BMB5BTETBCBK3C)
 
 > Sign Up screen:
 ![](https://raw.githubusercontent.com/furkantomu/expo-cli-blog-app/master/screenshots/validation3.png?token=ASJIVYVVMYMJ3U7S4TR5H6DBCBI6Y)
