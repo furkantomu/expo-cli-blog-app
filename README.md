@@ -40,14 +40,14 @@
 
 
 > Profile screen:
-![](https://raw.githubusercontent.com/furkantomu/expo-cli-blog-app/master/screenshots/Profile.png?token=ASJIVYRGGIB5YXB2NRAJOSTBCBKBK)
-![](https://raw.githubusercontent.com/furkantomu/expo-cli-blog-app/master/screenshots/AccountSettings.png?token=ASJIVYQZNYZZDOOD2NH7M53BCBKCS)
+![](https://raw.githubusercontent.com/furkantomu/expo-cli-blog-app/master/screenshots/Profile.png?token=ASJIVYRPRDWZF34BMB5BTETBCBK3C)
+![](https://raw.githubusercontent.com/furkantomu/expo-cli-blog-app/master/screenshots/AccountSettings.png?token=ASJIVYRPRDWZF34BMB5BTETBCBK3C)
 
 
 
 
 > Other Profile screen:
-![](https://raw.githubusercontent.com/furkantomu/expo-cli-blog-app/master/screenshots/OtherProfile.png?token=ASJIVYRDOPLPXRBHLZM3HMDBCBKEK)
+![](https://raw.githubusercontent.com/furkantomu/expo-cli-blog-app/master/screenshots/OtherProfile.png?token=ASJIVYRPRDWZF34BMB5BTETBCBK3C)
 
 
 
